@@ -34,6 +34,7 @@ Write a program to find the roots of a quadratic equation, given its coefficient
 ---
 
 ## Execution
+"https://github.com/NiharIlame/Programming-and-Problem-Solving/blob/main/Programming-and-Problem-Solving-Lab-main/Programming-and-Problem-Solving-Lab-main/Experiment2/Roots%20of%20Quadratic%20Equation/211.png"
 
 
 
