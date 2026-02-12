@@ -19,10 +19,6 @@ Write a Python program to determine whether a student passed the exam or not bas
 ---
 
 ## Execution
-<p align="center">
-  <img src="" width="900">
-</p>
 
-
-
+"https://github.com/NiharIlame/Programming-and-Problem-Solving/blob/main/Programming-and-Problem-Solving-Lab-main/Programming-and-Problem-Solving-Lab-main/Experiment1/Student%20Pass%20or%20Fail/115.png"
 
