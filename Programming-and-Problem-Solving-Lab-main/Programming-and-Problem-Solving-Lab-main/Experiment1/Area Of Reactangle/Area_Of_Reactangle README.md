@@ -19,7 +19,8 @@ Write a Python program to calculate the area of a rectangle given its length and
 
 ## Execution
 <p align="center">
-  <img src="Area_Of_Rectangle Code.png" width="900">
+  <img src="![Uploading WhatsApp Image 2026-02-12 at 10.55.42 AM (3).jpeg…]()
+" width="900">
 </p>
 
 
