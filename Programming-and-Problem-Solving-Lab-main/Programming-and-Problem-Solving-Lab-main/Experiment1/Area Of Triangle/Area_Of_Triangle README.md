@@ -18,9 +18,7 @@ Write a Python program that prompts the user to enter the triangle's base and he
 ---
 
 ## Execution
-<p align="center">
-  <img src="" width="900">
-</p>
+"https://github.com/NiharIlame/Programming-and-Problem-Solving/blob/main/Programming-and-Problem-Solving-Lab-main/Programming-and-Problem-Solving-Lab-main/Experiment1/Area%20Of%20Triangle/114.png"
 
 
 
