@@ -25,9 +25,8 @@ Write a Python program to perform union, intersection and difference operations 
 ---
 
 ## Execution
-<p align="center">
-  <img src="Set_Opp.png" width="900">
-</p>
+
+
 
 
 
