@@ -18,9 +18,6 @@ Write a Python program to calculate the area of a rectangle given its length and
 ---
 
 ## Execution
-<p align="center">
-  <img src="![Uploading WhatsApp Image 2026-02-12 at 10.55.42 AM (3).jpeg…]()
-" width="900">
-</p>
+"https://github.com/NiharIlame/Programming-and-Problem-Solving/blob/main/Programming-and-Problem-Solving-Lab-main/Programming-and-Problem-Solving-Lab-main/Experiment1/Area%20Of%20Reactangle/112.png"
 
 
