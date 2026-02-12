@@ -19,9 +19,8 @@ Write a Python program to convert temperature from Celsius to Fahrenheit.
 ---
 
 ## Execution
-<p align="center">
-  <img src="CTF.png" width="900">
-</p>
+
+
 
 
 
