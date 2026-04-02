@@ -1,0 +1,16 @@
+def sum_of_digits_recursive(n):
+	if(n==0):
+		return 0
+	else:
+	# Write your code here
+	
+		return  n % 10 + sum_of_digits_recursive( n//10 )
+number = int(input())
+
+
+# Write your code here
+print(sum_of_digits_recursive(number))
+result = sum_of_digits_recursive(number)	
+
+
+	
